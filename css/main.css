@@ -5,7 +5,9 @@
   --mainRed: #fd2727;
   --mainBlue: #00b5fd;
 }
-
+html{
+  scroll-behavior: smooth;
+}
 body {
   color: var(--mainWhite);
   font-family: 'Quicksand', sans-serif;
